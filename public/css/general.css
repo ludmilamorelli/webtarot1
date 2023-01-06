@@ -1,0 +1,21 @@
+body{
+    background-image:url('/images/fondoindex.jpg');
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+    line-height: 1.3em;
+    
+}
+.barranav { }
+
+
+
